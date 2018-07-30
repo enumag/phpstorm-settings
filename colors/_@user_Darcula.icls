@@ -1,0 +1,26 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-09-13T09:42:21</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2017-09-13T11:58:53</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dadada" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff191e" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc4646" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

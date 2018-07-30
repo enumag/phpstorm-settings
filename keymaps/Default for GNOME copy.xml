@@ -1,0 +1,14 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="CopyPaths" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+</keymap>

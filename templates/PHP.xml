@@ -1,0 +1,13 @@
+<templateSet group="PHP">
+  <template name="dec" value="declare(strict_types=1);" description="Strict types" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="from" value="public static function fromValues(&#10;&#9;$PARAMETERS$&#10;): self {&#10;&#9;$instance = new self();&#10;&#9;&#10;&#9;$END$&#10;&#9;&#10;&#9;return $instance;&#10;}" description="Static constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="phpSuggestFunctionParameter()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
