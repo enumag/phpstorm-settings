@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
