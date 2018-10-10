@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="preserveCase" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -14,7 +18,7 @@
     <mask>*.mxml</mask>
     <mask>*CommandHandler.*</mask>
     <mask>*Handler*</mask>
-    <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
