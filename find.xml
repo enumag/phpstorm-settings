@@ -19,5 +19,6 @@
     <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>*Aggregate.php</mask>
+    <mask>*Handler.php</mask>
   </component>
 </application>
