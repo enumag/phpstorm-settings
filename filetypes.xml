@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="stan2" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
