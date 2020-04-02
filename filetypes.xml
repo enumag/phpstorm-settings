@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="phpstan" type="PHP" />
+      <mapping pattern="dispatch2" type="PHP" />
+      <mapping pattern="fix-phpstan" type="PLAIN_TEXT" />
       <mapping pattern="stan2" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
