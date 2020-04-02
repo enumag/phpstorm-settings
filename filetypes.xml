@@ -24,8 +24,8 @@
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".nvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="stan2" approved="true" type="PLAIN_TEXT" />
