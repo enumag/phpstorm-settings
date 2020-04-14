@@ -1,9 +1,44 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="fix-phpstan" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
-      <mapping pattern="stan2" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".nvmrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".node-version" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".nvmrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="stan2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="fix-phpstan" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="dispatch2" approved="true" type="PHP" />
+      <removed_mapping pattern=".node-version" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
