@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="fix-phpstan" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping pattern=".npmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".nvmrc" approved="true" type="PLAIN_TEXT" />
