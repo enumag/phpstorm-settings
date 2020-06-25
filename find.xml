@@ -23,5 +23,6 @@
     <mask>*Policy.php</mask>
     <mask>*.php</mask>
     <mask>*Command.php</mask>
+    <mask>*Assistant.php</mask>
   </component>
 </application>
