@@ -13,8 +13,8 @@
       <removed_mapping pattern=".node-version" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".npmrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
