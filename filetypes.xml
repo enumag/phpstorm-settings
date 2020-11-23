@@ -5,6 +5,8 @@
       <mapping pattern="fix-phpstan" type="PHP" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
       <removed_mapping pattern=".nvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".node-version" approved="true" type="PLAIN_TEXT" />
