@@ -3,11 +3,13 @@
     <extensionMap>
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
+      <mapping ext="pass" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="enc2" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
