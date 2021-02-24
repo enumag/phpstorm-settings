@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
       <mapping ext="pass" type="PLAIN_TEXT" />
