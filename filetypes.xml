@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="phpstan" type="PHP" />
+      <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="pass" type="PLAIN_TEXT" />
