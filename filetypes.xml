@@ -4,6 +4,7 @@
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="pass" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
