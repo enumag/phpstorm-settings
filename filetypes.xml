@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
