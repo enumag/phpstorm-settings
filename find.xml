@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Handler.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -18,7 +19,6 @@
     <mask>*Policy.php</mask>
     <mask>*Command.php</mask>
     <mask>*Assistant.php</mask>
-    <mask>*Handler.php</mask>
     <mask>*State.php</mask>
     <mask>*Finder.php</mask>
     <mask>*Type.php</mask>
@@ -26,5 +26,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*Handler.php</mask>
   </component>
 </application>
