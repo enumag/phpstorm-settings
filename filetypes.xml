@@ -15,6 +15,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="stubphp" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
