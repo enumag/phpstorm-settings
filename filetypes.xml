@@ -5,6 +5,7 @@
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
+      <mapping ext="phpt" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="pass" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping ext="stubphp" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="phpt" approved="true" type="PHPT" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
