@@ -1992,6 +1992,16 @@
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
                     </value>
                   </entry>
+                  <entry key="nette-tester">
+                    <value>
+                      <FeaturePluginData displayName="Nette Tester" pluginName="Nette Tester" pluginId="cz.jiripudil.intellij.nette.tester" />
+                    </value>
+                  </entry>
+                  <entry key="nette-tester-method">
+                    <value>
+                      <FeaturePluginData displayName="Nette Tester test method" pluginName="Nette Tester" pluginId="cz.jiripudil.intellij.nette.tester" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
