@@ -18,13 +18,13 @@
     <mask>*Policy.php</mask>
     <mask>*Command.php</mask>
     <mask>*Assistant.php</mask>
-    <mask>*Handler.php</mask>
     <mask>*State.php</mask>
-    <mask>*.yaml</mask>
     <mask>*Finder.php</mask>
     <mask>*Type.php</mask>
     <mask>*Query.php</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*Handler.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>

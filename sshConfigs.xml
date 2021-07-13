@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="staging.parkers.cz" id="585b1916-5dc5-474d-8941-103029ab4f8e" keyPath="$USER_HOME$/.ssh/id_rsa" port="5522" nameFormat="DESCRIPTIVE" username="tousek" />
+    </configs>
+  </component>
+</application>
