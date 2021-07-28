@@ -29,5 +29,7 @@
     <mask>*.yaml</mask>
     <mask>*Test.php</mask>
     <mask>*Serializer.php</mask>
+    <mask>*HandlerTest.php</mask>
+    <mask>*ProcessManagerTest.php</mask>
   </component>
 </application>
