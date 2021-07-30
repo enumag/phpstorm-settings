@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Serializer.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,8 +31,8 @@
     <mask>*Controller.php</mask>
     <mask>*.yaml</mask>
     <mask>*Test.php</mask>
-    <mask>*Serializer.php</mask>
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
+    <mask>*Serializer.php</mask>
   </component>
 </application>
