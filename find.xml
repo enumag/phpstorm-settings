@@ -33,5 +33,6 @@
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
+    <mask>primary.php</mask>
   </component>
 </application>
