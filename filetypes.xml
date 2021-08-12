@@ -2,18 +2,17 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
-      <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="dispatch" type="PHP" />
+      <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
-      <mapping ext="phpt" type="PHP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.template" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pass" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="enc2" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
