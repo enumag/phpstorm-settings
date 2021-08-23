@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Policy.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,9 +16,7 @@
     <mask>*.ctp</mask>
     <mask>*.yml</mask>
     <mask>*Aggregate.php</mask>
-    <mask>*Policy.php</mask>
     <mask>*Command.php</mask>
-    <mask>*Assistant.php</mask>
     <mask>*State.php</mask>
     <mask>*Finder.php</mask>
     <mask>*Type.php</mask>
@@ -32,5 +31,7 @@
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
     <mask>primary.php</mask>
+    <mask>*Assistant.php</mask>
+    <mask>*Policy.php</mask>
   </component>
 </application>
