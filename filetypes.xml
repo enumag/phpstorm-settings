@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
@@ -15,15 +15,15 @@
       <mapping ext="pass" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="feature" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="enc2" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="stubphp" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="phpt" approved="true" type="PHPT" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
