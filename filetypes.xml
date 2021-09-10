@@ -11,8 +11,8 @@
       <mapping ext="pass" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="enc2" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
