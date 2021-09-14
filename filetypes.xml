@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="doctrine-schema-validate" type="AUTO_DETECTED" />
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
-      <mapping ext="phpt" type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -19,13 +19,13 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="stubphp" type="PLAIN_TEXT" />
+      <mapping pattern="generate-ecdsa-for-jwt" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-authentication" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-session" type="Shell Script" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="phpt" approved="true" type="PHPT" />
-      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
