@@ -24,7 +24,6 @@
     <mask>*.php</mask>
     <mask>*Handler.php</mask>
     <mask>*Controller.php</mask>
-    <mask>*.yaml</mask>
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
@@ -35,5 +34,6 @@
     <mask>*.xml</mask>
     <mask>*.graphql</mask>
     <mask>*.vue</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
