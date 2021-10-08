@@ -21,8 +21,8 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="stubphp" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="generate-ecdsa-for-jwt" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-authentication" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-session" type="Shell Script" />
