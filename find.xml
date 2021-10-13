@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*TestCase.php" />
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -30,10 +30,11 @@
     <mask>primary.php</mask>
     <mask>*Assistant.php</mask>
     <mask>*Policy.php</mask>
-    <mask>*Test.php</mask>
     <mask>*.xml</mask>
     <mask>*.graphql</mask>
     <mask>*.vue</mask>
     <mask>*.yaml</mask>
+    <mask>*Test.php</mask>
+    <mask>*TestCase.php</mask>
   </component>
 </application>
