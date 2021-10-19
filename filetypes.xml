@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="doctrine-schema-validate" type="AUTO_DETECTED" />
       <mapping pattern="x" type="AUTO_DETECTED" />
+      <removed_mapping pattern="composer.lock" type="JSON" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="fix-phpstan" type="PHP" />
@@ -26,6 +27,7 @@
       <mapping pattern="generate-ecdsa-for-jwt" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-authentication" type="Shell Script" />
       <mapping pattern="generate-ecdsa-for-jwt-session" type="Shell Script" />
+      <mapping pattern="composer.lock" type="composer.json" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
