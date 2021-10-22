@@ -20,7 +20,6 @@
     <mask>*Policy.php</mask>
     <mask>*.graphql</mask>
     <mask>*.vue</mask>
-    <mask>*Test.php</mask>
     <mask>*TestCase.php</mask>
     <mask>*.yaml</mask>
     <mask>*.css</mask>
@@ -35,5 +34,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.ini</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
