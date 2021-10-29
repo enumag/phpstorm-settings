@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*State.php</mask>
     <mask>*Finder.php</mask>
     <mask>*Type.php</mask>
     <mask>*Query.php</mask>
@@ -37,5 +36,6 @@
     <mask>*.php</mask>
     <mask>*.ini</mask>
     <mask>*Test.php</mask>
+    <mask>*Command.php</mask>
   </component>
 </application>
