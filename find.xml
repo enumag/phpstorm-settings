@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Finder.php</mask>
+    <option name="FILE_MASK" value="I*.php" />
     <mask>*Type.php</mask>
     <mask>*Query.php</mask>
     <mask>*.twig</mask>
@@ -35,5 +35,6 @@
     <mask>*.ini</mask>
     <mask>*Test.php</mask>
     <mask>*Command.php</mask>
+    <mask>I*.php</mask>
   </component>
 </application>
