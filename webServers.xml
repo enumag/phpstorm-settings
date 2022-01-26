@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="d86ca6e1-f77b-4a04-8f3a-a45e0de2d5bc" name="IFM24" url="http://localhost:8000/">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
