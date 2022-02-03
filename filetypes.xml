@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="doctrine-schema-validate" type="AUTO_DETECTED" />
+      <mapping pattern="debug" type="AUTO_DETECTED" />
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern="dispatch" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
