@@ -2,11 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <mask>*Type.php</mask>
     <mask>*Query.php</mask>
     <mask>*.twig</mask>
-    <mask>*Controller.php</mask>
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
@@ -33,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*Handler.php</mask>
     <mask>*Test.php</mask>
+    <mask>*Controller.php</mask>
   </component>
 </application>
