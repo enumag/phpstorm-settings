@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Query.php</mask>
+    <option name="FILE_MASK" value="*Agg*" />
     <mask>*.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
@@ -33,5 +33,6 @@
     <mask>*Controller.php</mask>
     <mask>*.yaml</mask>
     <mask>*Controller*</mask>
+    <mask>*Agg*</mask>
   </component>
 </application>
