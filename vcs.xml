@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/FriendsOfSymfony" />
   </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
+  </component>
 </application>
