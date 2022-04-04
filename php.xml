@@ -10,14 +10,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.0">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php8.0" path_separator=":" version="8.0.12">
-          <additional_php_ini>/etc/php/8.0/cli/conf.d/10-mysqlnd.ini, /etc/php/8.0/cli/conf.d/10-opcache.ini, /etc/php/8.0/cli/conf.d/10-pdo.ini, /etc/php/8.0/cli/conf.d/15-xml.ini, /etc/php/8.0/cli/conf.d/20-apcu.ini, /etc/php/8.0/cli/conf.d/20-bcmath.ini, /etc/php/8.0/cli/conf.d/20-calendar.ini, /etc/php/8.0/cli/conf.d/20-ctype.ini, /etc/php/8.0/cli/conf.d/20-curl.ini, /etc/php/8.0/cli/conf.d/20-dom.ini, /etc/php/8.0/cli/conf.d/20-eio.ini, /etc/php/8.0/cli/conf.d/20-exif.ini, /etc/php/8.0/cli/conf.d/20-ffi.ini, /etc/php/8.0/cli/conf.d/20-fiber.ini, /etc/php/8.0/cli/conf.d/20-fileinfo.ini, /etc/php/8.0/cli/conf.d/20-ftp.ini, /etc/php/8.0/cli/conf.d/20-gd.ini, /etc/php/8.0/cli/conf.d/20-gettext.ini, /etc/php/8.0/cli/conf.d/20-gmp.ini, /etc/php/8.0/cli/conf.d/20-grpc.ini, /etc/php/8.0/cli/conf.d/20-iconv.ini, /etc/php/8.0/cli/conf.d/20-igbinary.ini, /etc/php/8.0/cli/conf.d/20-intl.ini, /etc/php/8.0/cli/conf.d/20-mbstring.ini, /etc/php/8.0/cli/conf.d/20-msgpack.ini, /etc/php/8.0/cli/conf.d/20-mysqli.ini, /etc/php/8.0/cli/conf.d/20-pdo_mysql.ini, /etc/php/8.0/cli/conf.d/20-pdo_pgsql.ini, /etc/php/8.0/cli/conf.d/20-pgsql.ini, /etc/php/8.0/cli/conf.d/20-phar.ini, /etc/php/8.0/cli/conf.d/20-posix.ini, /etc/php/8.0/cli/conf.d/20-pq.ini, /etc/php/8.0/cli/conf.d/20-protobuf.ini, /etc/php/8.0/cli/conf.d/20-raphf.ini, /etc/php/8.0/cli/conf.d/20-readline.ini, /etc/php/8.0/cli/conf.d/20-shmop.ini, /etc/php/8.0/cli/conf.d/20-simplexml.ini, /etc/php/8.0/cli/conf.d/20-soap.ini, /etc/php/8.0/cli/conf.d/20-sockets.ini, /etc/php/8.0/cli/conf.d/20-ssh2.ini, /etc/php/8.0/cli/conf.d/20-sysvmsg.ini, /etc/php/8.0/cli/conf.d/20-sysvsem.ini, /etc/php/8.0/cli/conf.d/20-sysvshm.ini, /etc/php/8.0/cli/conf.d/20-tokenizer.ini, /etc/php/8.0/cli/conf.d/20-xdebug.ini, /etc/php/8.0/cli/conf.d/20-xmlreader.ini, /etc/php/8.0/cli/conf.d/20-xmlrpc.ini, /etc/php/8.0/cli/conf.d/20-xmlwriter.ini, /etc/php/8.0/cli/conf.d/20-xsl.ini, /etc/php/8.0/cli/conf.d/20-zip.ini, /etc/php/8.0/cli/conf.d/25-event.ini, /etc/php/8.0/cli/conf.d/25-memcached.ini, /etc/php/8.0/cli/conf.d/30-ds.ini, /etc/php/8.0/cli/conf.d/90-blackfire.ini</additional_php_ini>
-          <configuration_file>/etc/php/8.0/cli/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php8.1" path_separator=":" version="8.1.3">
+          <additional_php_ini>/etc/php/8.1/cli/conf.d/10-mysqlnd.ini, /etc/php/8.1/cli/conf.d/10-opcache.ini, /etc/php/8.1/cli/conf.d/10-pdo.ini, /etc/php/8.1/cli/conf.d/15-xml.ini, /etc/php/8.1/cli/conf.d/20-apcu.ini, /etc/php/8.1/cli/conf.d/20-calendar.ini, /etc/php/8.1/cli/conf.d/20-ctype.ini, /etc/php/8.1/cli/conf.d/20-curl.ini, /etc/php/8.1/cli/conf.d/20-dom.ini, /etc/php/8.1/cli/conf.d/20-exif.ini, /etc/php/8.1/cli/conf.d/20-ffi.ini, /etc/php/8.1/cli/conf.d/20-fileinfo.ini, /etc/php/8.1/cli/conf.d/20-ftp.ini, /etc/php/8.1/cli/conf.d/20-gettext.ini, /etc/php/8.1/cli/conf.d/20-iconv.ini, /etc/php/8.1/cli/conf.d/20-igbinary.ini, /etc/php/8.1/cli/conf.d/20-mbstring.ini, /etc/php/8.1/cli/conf.d/20-msgpack.ini, /etc/php/8.1/cli/conf.d/20-mysqli.ini, /etc/php/8.1/cli/conf.d/20-pdo_mysql.ini, /etc/php/8.1/cli/conf.d/20-phar.ini, /etc/php/8.1/cli/conf.d/20-posix.ini, /etc/php/8.1/cli/conf.d/20-readline.ini, /etc/php/8.1/cli/conf.d/20-shmop.ini, /etc/php/8.1/cli/conf.d/20-simplexml.ini, /etc/php/8.1/cli/conf.d/20-sockets.ini, /etc/php/8.1/cli/conf.d/20-ssh2.ini, /etc/php/8.1/cli/conf.d/20-sysvmsg.ini, /etc/php/8.1/cli/conf.d/20-sysvsem.ini, /etc/php/8.1/cli/conf.d/20-sysvshm.ini, /etc/php/8.1/cli/conf.d/20-tokenizer.ini, /etc/php/8.1/cli/conf.d/20-xdebug.ini, /etc/php/8.1/cli/conf.d/20-xmlreader.ini, /etc/php/8.1/cli/conf.d/20-xmlwriter.ini, /etc/php/8.1/cli/conf.d/20-xsl.ini, /etc/php/8.1/cli/conf.d/25-memcached.ini, /etc/php/8.1/cli/conf.d/30-ds.ini</additional_php_ini>
+          <configuration_file>/etc/php/8.1/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/share/php" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.1">
+            <debugger_info debugger="xdebug" debugger_version="3.1.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -31,29 +31,20 @@
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
             <extension name="apcu" />
-            <extension name="bcmath" />
-            <extension name="blackfire" />
             <extension name="calendar" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="ds" />
-            <extension name="eio" />
-            <extension name="event" />
             <extension name="exif" />
-            <extension name="fiber" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
-            <extension name="gd" />
             <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="grpc" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="igbinary" />
-            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -65,16 +56,10 @@
             <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pgsql" />
             <extension name="posix" />
-            <extension name="pq" />
-            <extension name="protobuf" />
-            <extension name="raphf" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="shmop" />
-            <extension name="soap" />
             <extension name="sockets" />
             <extension name="sodium" />
             <extension name="ssh2" />
@@ -86,10 +71,8 @@
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
