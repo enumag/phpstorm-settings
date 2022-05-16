@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*HandlerTest.php</mask>
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
@@ -29,9 +30,9 @@
     <mask>*Handler.php</mask>
     <mask>*Test.php</mask>
     <mask>*Controller.php</mask>
-    <mask>*.yaml</mask>
     <mask>*Controller*</mask>
     <mask>*Agg*</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
