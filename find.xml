@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="primary.php" />
     <mask>*ProcessManagerTest.php</mask>
     <mask>*Serializer.php</mask>
     <mask>*Assistant.php</mask>
