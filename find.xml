@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Response.php" />
-    <mask>*Assistant.php</mask>
     <mask>*Policy.php</mask>
     <mask>*.graphql</mask>
     <mask>*.vue</mask>
@@ -34,5 +32,6 @@
     <mask>without.php</mask>
     <mask>*.yaml</mask>
     <mask>*Response.php</mask>
+    <mask>*Finder.php</mask>
   </component>
 </application>
