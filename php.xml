@@ -156,4 +156,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <phpstan_by_interpreter interpreter_id="e9945464-ae14-4bba-b9ca-0d7a6e7a7e9d" tool_path="/app/vendor/bin/phpstan" timeout="60000" />
+    </PhpStan_settings>
+  </component>
 </application>
