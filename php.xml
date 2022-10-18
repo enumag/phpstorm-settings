@@ -5,16 +5,6 @@
     <interpreters>
       <interpreter id="62eee8ea-7686-484b-b73f-e62ed9e91334" name="PHP 7.2 windows" home="C:/Server/PHP_7.2.6/php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="98741357-109b-4e9c-9ade-9b1d6e9b199b" name="PHP 8.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="e9945464-ae14-4bba-b9ca-0d7a6e7a7e9d" name="docker" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-          <type_data command="EXEC" />
-          <dockerComposeConfigurationPaths>
-            <item value="$USER_HOME$/Projects/spaceflow/spaceflow-open-api/docker-compose.yml" />
-            <item value="$USER_HOME$/Projects/spaceflow/spaceflow-open-api/docker-compose.override.yml" />
-          </dockerComposeConfigurationPaths>
-          <envs />
-        </remote_data>
-      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -83,73 +73,6 @@
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="docker">
-        <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="8.1.10">
-          <additional_php_ini>/usr/local/etc/php/conf.d/00-php-raw.ini, /usr/local/etc/php/conf.d/01-php-dev.ini, /usr/local/etc/php/conf.d/10-overrides.ini, /usr/local/etc/php/conf.d/docker-php-ext-amqp.ini, /usr/local/etc/php/conf.d/docker-php-ext-apcu.ini, /usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-blackfire.ini, /usr/local/etc/php/conf.d/docker-php-ext-bz2.ini, /usr/local/etc/php/conf.d/docker-php-ext-calendar.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-grpc.ini, /usr/local/etc/php/conf.d/docker-php-ext-intl.ini, /usr/local/etc/php/conf.d/docker-php-ext-meminfo.ini, /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-soap.ini, /usr/local/etc/php/conf.d/docker-php-ext-sockets.ini, /usr/local/etc/php/conf.d/docker-php-ext-sodium.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/lib/php" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.5">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
-            <extension name="amqp" />
-            <extension name="apcu" />
-            <extension name="bcmath" />
-            <extension name="blackfire" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="grpc" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="meminfo" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcntl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="posix" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sodium" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
