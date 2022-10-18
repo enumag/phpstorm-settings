@@ -7,8 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.graphql</mask>
-    <mask>*.vue</mask>
+    <option name="FILE_MASK" value="*PolicyTest.php" />
     <mask>*TestCase.php</mask>
     <mask>*.ini</mask>
     <mask>*Command.php</mask>
@@ -37,5 +36,7 @@
     <mask>*Response.php</mask>
     <mask>*Finder.php</mask>
     <mask>*PermissionPolicy.php</mask>
+    <mask>*PermissionPolicyTest.php</mask>
+    <mask>*PolicyTest.php</mask>
   </component>
 </application>
