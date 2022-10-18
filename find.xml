@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Policy.php</mask>
+    <option name="FILE_MASK" value="*PermissionPolicy.php" />
     <mask>*.graphql</mask>
     <mask>*.vue</mask>
     <mask>*TestCase.php</mask>
@@ -35,5 +35,6 @@
     <mask>*.yaml</mask>
     <mask>*Response.php</mask>
     <mask>*Finder.php</mask>
+    <mask>*PermissionPolicy.php</mask>
   </component>
 </application>
