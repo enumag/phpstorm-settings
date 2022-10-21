@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Hydrator.php" />
     <mask>*TestCase.php</mask>
     <mask>*.ini</mask>
     <mask>*Command.php</mask>
@@ -24,7 +27,6 @@
     <mask>*Controller*</mask>
     <mask>*Agg*</mask>
     <mask>*.json</mask>
-    <mask>*Hydrator.php</mask>
     <mask>primary.php</mask>
     <mask>without.php</mask>
     <mask>*.yaml</mask>
@@ -33,5 +35,6 @@
     <mask>*PermissionPolicy.php</mask>
     <mask>*PermissionPolicyTest.php</mask>
     <mask>*PolicyTest.php</mask>
+    <mask>*Hydrator.php</mask>
   </component>
 </application>
