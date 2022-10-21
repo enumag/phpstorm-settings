@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Hydrator.php" />
-    <mask>*TestCase.php</mask>
+    <option name="FILE_MASK" value="*Serializer.php" />
     <mask>*.ini</mask>
     <mask>*Command.php</mask>
     <mask>I*.php</mask>
@@ -36,5 +35,6 @@
     <mask>*PermissionPolicyTest.php</mask>
     <mask>*PolicyTest.php</mask>
     <mask>*Hydrator.php</mask>
+    <mask>*Serializer.php</mask>
   </component>
 </application>
