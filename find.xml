@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ini</mask>
+    <option name="FILE_MASK" value="*QueryHandler.php" />
     <mask>*Command.php</mask>
     <mask>I*.php</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*Serializer.php</mask>
     <mask>*.yaml</mask>
     <mask>*Test.php</mask>
+    <mask>*QueryHandler.php</mask>
   </component>
 </application>
